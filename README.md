@@ -26,10 +26,10 @@ Umożliwia modyfikacje nazwy i wartości dowolnie wybranego elementu pod tym war
 
 # Informacje dodatkowe
 
-tree/models.py - Klasa generująca w bazie danych tablice dotyczącą węzłów
-tree/functions.py - Wszystkie funkcje dotyczące operacji na węzłach
-tree/forms.py - Formularze odpowiadające za generownie wszystkich inputów dla użytkownika i jednocześnie walidujące dane
-tree/view.py - Funkcja renderująca obraz główny strony
+- tree/models.py - Klasa generująca w bazie danych tablice dotyczącą węzłów
+- tree/functions.py - Wszystkie funkcje dotyczące operacji na węzłach
+- tree/forms.py - Formularze odpowiadające za generownie wszystkich inputów dla użytkownika i jednocześnie walidujące dane
+- tree/view.py - Funkcja renderująca obraz główny strony
 
 Adres strony postawionej przy użyciu platformy Heroku: https://wiktorbinarytree.herokuapp.com
 
